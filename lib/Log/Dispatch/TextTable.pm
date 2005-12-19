@@ -12,13 +12,13 @@ Log::Dispatch::TextTable - log events to a textual table
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
- $Id: /my/rjbs/code/logtable/trunk/lib/Log/Dispatch/TextTable.pm 17274 2005-12-17T17:13:23.218308Z rjbs  $
+ $Id: /my/rjbs/code/logtable/trunk/lib/Log/Dispatch/TextTable.pm 17297 2005-12-19T17:50:53.742198Z rjbs  $
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
