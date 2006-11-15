@@ -1,13 +1,16 @@
-# http://module-build.sourceforge.net/META-spec.html
-#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
-name:         Log-Dispatch-TextTable
-version:      0.03
-version_from: lib/Log/Dispatch/TextTable.pm
-installdirs:  site
-requires:
+--- #YAML:1.0
+name:                Log-Dispatch-TextTable
+version:             0.031
+abstract:            log events to a textual table
+license:             perl
+generated_by:        ExtUtils::MakeMaker version 6.31
+distribution_type:   module
+requires:     
     Log::Dispatch:                 2
     Test::More:                    0
     Text::Table:                   0
-
-distribution_type: module
-generated_by: ExtUtils::MakeMaker version 6.17
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+author:
+    - Ricardo Signes <rjbs@cpan.org>
