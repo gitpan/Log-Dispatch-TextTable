@@ -1,9 +1,13 @@
-Log-Dispatch-Table
 
-This module provides a logging output method for Log::Dispatch.  If you don't
-know what Log::Dispatch is, check it out.
 
-  http://search.cpan.org/dist/Log-Dispatch/
+This archive contains the distribution Log-Dispatch-TextTable,
+version 0.032:
 
-The Log::Dispatch::TextTable output will collect data on all logged events and
-dump them to a nicely formatted text table when done.
+  log events to a textual table
+
+This software is copyright (c) 2013 by Ricardo SIGNES.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
